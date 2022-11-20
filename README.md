@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  Telegram server: https://t.me/doenerium
+  Discord server: https://discord.gg/4bqB5CAB
  </p>
 
 ## 🌐 〢 Content
